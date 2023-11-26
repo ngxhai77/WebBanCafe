@@ -1,0 +1,180 @@
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\Quanlycafe.dll.config
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\Quanlycafe.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\Quanlycafe.pdb
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\csc.exe
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\csc.exe.config
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\csc.rsp
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\csi.exe
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\csi.exe.config
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\csi.rsp
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.Managed.Core.targets
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.AppContext.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Collections.Immutable.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Console.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Globalization.Calendars.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.IO.Compression.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.IO.FileSystem.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Net.Http.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Net.Sockets.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Reflection.Metadata.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.ValueTuple.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Xml.XmlDocument.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Xml.XPath.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\vbc.exe
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\vbc.exe.config
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\vbc.rsp
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\VBCSCompiler.exe
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\roslyn\VBCSCompiler.exe.config
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\Antlr3.Runtime.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\EntityFramework.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\EntityFramework.SqlServer.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\Microsoft.Web.Infrastructure.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\Newtonsoft.Json.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\PagedList.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.Helpers.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.Mvc.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.Optimization.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.Razor.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.WebPages.Deployment.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.WebPages.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.WebPages.Razor.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\WebGrease.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\EntityFramework.xml
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\EntityFramework.SqlServer.xml
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\PagedList.xml
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.Helpers.xml
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.Mvc.xml
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.Optimization.xml
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.Razor.xml
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.WebPages.xml
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.WebPages.Deployment.xml
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\System.Web.WebPages.Razor.xml
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\Newtonsoft.Json.xml
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\Antlr3.Runtime.pdb
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.csproj.AssemblyReference.cache
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.Migrations.AddThanhtien.resources
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.csproj.GenerateResource.cache
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.csproj.CoreCompileInputs.cache
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.csproj.CopyComplete
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.pdb
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\PagedList.Mvc.dll
+D:\code\Công nghệ .NET và web\Quanlycafe\Quanlycafe\bin\PagedList.Mvc.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\Quanlycafe.dll.config
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\Quanlycafe.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\Quanlycafe.pdb
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\csc.exe
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\csc.exe.config
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\csc.rsp
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\csi.exe
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\csi.exe.config
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\csi.rsp
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.AppContext.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Console.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.IO.Compression.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Net.Http.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Net.Sockets.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.ValueTuple.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Xml.XPath.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\vbc.exe
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\vbc.exe.config
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\vbc.rsp
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\VBCSCompiler.exe
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\Antlr3.Runtime.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\EntityFramework.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\EntityFramework.SqlServer.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\Newtonsoft.Json.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\PagedList.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\PagedList.Mvc.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.Helpers.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.Mvc.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.Optimization.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.Razor.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.WebPages.Deployment.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.WebPages.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.WebPages.Razor.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\WebGrease.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\EntityFramework.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\EntityFramework.SqlServer.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\PagedList.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\PagedList.Mvc.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.Helpers.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.Mvc.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.Optimization.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.Razor.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.WebPages.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.WebPages.Deployment.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\System.Web.WebPages.Razor.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\Newtonsoft.Json.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\Antlr3.Runtime.pdb
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\api.NET\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.csproj.AssemblyReference.cache
+D:\Work\api.NET\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.Migrations.AddThanhtien.resources
+D:\Work\api.NET\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.csproj.GenerateResource.cache
+D:\Work\api.NET\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.csproj.CoreCompileInputs.cache
+D:\Work\api.NET\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.csproj.CopyComplete
+D:\Work\api.NET\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\obj\Debug\Quanlycafe.pdb
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\CKFinder.dll
+D:\Work\api.NET\Quanlycafe\Quanlycafe\bin\CKFinder.pdb

@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "CAFE-NGON 24H";
+    
+}
+
+
+<br />
+<div class="row">
+    <div class="col-md-8">
+       @Html.Action("SlidePartial","Home")
+    </div>
+    <div class="col-md-4">
+        <img src="~/HinhanhSP/giphy.gif" class="img-responsive" alt="" />
+    </div>
+</div>
+
+<br />
+<div class="spnoibat">
+    <div  class="row">
+
+        <h3> SẢN PHẨM BÁN CHẠY</h3>
+        <div class="col-md-4">
+            <img src="~/HinhanhSP/spcb1.png" class="img-responsive" alt="" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/HinhanhSP/spcb2.png" class="img-responsive" alt="" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/HinhanhSP/spcb3.png" class="img-responsive" alt="" />
+        </div>
+    </div>
+</div>
+<div class="danhmuc">
+    @Html.Action("DanhmucPartial", "Danhmuc")
+</div>
+<div class="dt">
+
+    @Html.Action("coffeePartial", "Sanpham")
+</div>
+<div class="dt">
+
+    @Html.Action("trapartial", "Sanpham")
+</div>
+
+<div class="dt">
+
+    @Html.Action("banhpartial", "Sanpham")
+</div>
+
+

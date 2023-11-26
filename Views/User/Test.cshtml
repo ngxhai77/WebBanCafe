@@ -1,0 +1,22 @@
+﻿@model Quanlycafe.Models.Nguoidung
+@{
+    ViewBag.Title = "Test";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var u = Session["use"] as Quanlycafe.Models.Nguoidung;
+}
+
+@{
+    if (u != null)
+    {
+
+        <h2>Xin chào : @u.Hoten</h2>
+        @Html.ActionLink("Đăng xuất", "DangXuat", "User")
+    }
+
+
+}
+
+
+
+
+

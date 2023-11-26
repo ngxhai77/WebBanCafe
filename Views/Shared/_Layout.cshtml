@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Cafe giá rẻ</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css" />
+    <link rel=" stylesheet" href="~/Content/Style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    @using Quanlycafe.Models
+
+    <style type="text/css">
+        body {
+            background-image: url('/HinhanhSP/bgimage.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        .navbar-inverse {   
+            background-color: red;
+            border-color: #39B54A;
+        }
+
+        .top_header {
+            background-color: black;
+            padding-left: 110px;
+            color: white;
+        }
+
+        .form-inline {
+            float: right;
+            padding-top: 10px;
+        }
+
+        .navbar-inverse .navbar-nav > li > a {
+            color: white;
+            font-size: x-large;
+        }
+
+        .navbar-inverse .navbar-brand {
+            color: white;
+        }
+
+        .navbar-inverse .navbar-nav > li > a {
+            color: white;
+            font-size: large;
+        }
+
+            .navbar-inverse .navbar-nav > li > a:hover {
+                color: black;
+            }
+
+        .navbar-brand {
+            color: cadetblue;
+        }
+
+        .spnoibat {
+            background-color: white;
+        }
+
+            .spnoibat h3 {
+                padding-left: 30px;
+            }
+
+        .giohang {
+            color: white;
+        }
+        .container{
+            width: 90% ;
+        }
+      
+    </style>
+
+
+
+</head>
+
+<body>
+
+    @{ var u = Session["use"] as Quanlycafe.Models.Nguoidung; }
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+
+        <div class="top_header col-md-12">
+
+            <div class="row">
+                
+                <div class="col-sm-4 col-md-0" style="font-size:large">WEB CAFE</div>
+
+                <div class="col-sm-4 col-md-0" style="padding-left:250px">
+                    @Html.Action("GioHangPartial", "GioHang", new { @class = "giohang" })
+                </div>               
+                @{ if (u != null)
+                    {
+                                <div class="col-sm-4 col-md-0">
+                                    <a style="color:white" href="@Url.Action("Profile", "User", new { id = u.MaNguoiDung  })"> Xin chào : @u.Hoten</a>
+                                    &nbsp;
+                                    
+                                    <a style="color:red" href="/User/DangXuat"> ĐĂNG XUẤT</a>
+                                </div> }
+                    else
+                    {
+                    <div class="col-sm-4 col-md-0">
+                        <a style="color:white" href="/User/Dangky"> Đăng ký</a>
+                        &nbsp;
+                        <a style="color:white" href="/User/Dangnhap"> Đăng nhập</a>
+                    </div> } }
+
+
+            </div>
+
+        </div>
+        <div class="container">
+
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <img class="navbar-brand" src="~/HinhanhSP/logo.jpg" width="50" height="50" style="padding:0" />
+                @Html.ActionLink(" CAFE 24H", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                <form class="form-inline" style="float:left">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Tìm kiếm sản phẩm..." aria-label="Search">
+                    
+                </form>
+
+            </div>
+
+            <div class="navbar-collapse collapse">
+
+                <ul class="nav navbar-nav">
+                                      
+                    <li>
+                        <a href="/Home/Contact" title="LIENHE">
+                            
+                            <span>LIÊN HỆ</span>
+
+                        </a>
+                    </li>
+                    <li>
+                        <a style="color:white"
+                           class="nav-link"
+                           href="@Url.Action("Index", "Donhangs")">ĐƠN HÀNG</a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
+
+    <br>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <div>
+            <img class="img-responsive" src="~/HinhanhSP/ban2.jpg" />
+        </div>
+        <br />
+    </div>
+    <footer class="bg-info" style="padding-left:50px">
+        <div class="row">
+            
+            <div class="col-md-3 col-sm-6">
+                <h2>Liên Hệ</h2>
+                <span>Đang mở cửa: Open 24/7 </span>
+                <br />
+                <span>Số điện thoại cửa hàng: 0123345678</span>
+                <br />
+                <span>
+                    Mail: cafe24h@gmail.com <span>
+                        <br />
+                        <span>Fanpage: cafewibu</span>
+
+
+</div>
+            <div class="col-md-3 col-sm-6">
+                <h2>Thông tin</h2>
+                <span>Về chúng tôi</span>
+                <br />
+                <span>Liên hệ</span>
+                <br />
+                <span>Góp ý</span>
+                <br />
+                <span>Tra cứu</span>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <h2>Theo dõi</h2>
+                <span>Kênh youtube</span>
+                <br />
+                <span>Fanpage</span>
+                <br />
+                <span>Shopee</span>
+                <br />
+                <span>Group</span>
+
+            </div>
+        </div>
+        <hr />
+        <center> <p class="bg-primary">&copy; @DateTime.Now.Year - CAFE NGON</p></center>
+    </footer>
+
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
